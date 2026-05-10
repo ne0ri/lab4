@@ -1,3 +1,4 @@
+# Клон: добавила строку
 import os
 import csv
 from typing import Iterator, List
